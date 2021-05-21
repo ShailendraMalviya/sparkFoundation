@@ -13,5 +13,3 @@ public class Access12{
 		obj.menu();
 		}
 }
-
-	
